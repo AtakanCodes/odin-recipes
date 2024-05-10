@@ -1,0 +1,16 @@
+a:link {
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    background-color: aquamarine;
+    color: floralwhite;
+}
+
+.recipe-list {
+    color: red;
+}
+
+p, h1, h2, h3, ul, ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
