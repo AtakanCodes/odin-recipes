@@ -1,3 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 a:link {
     text-decoration: none;
 }
@@ -9,8 +16,11 @@ h1, h2, h3 {
 
 .recipe-list {
     color: red;
+    list-style: none;
+    padding: 10px;
 }
 
-p, h1, h2, h3, ul, ol {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+p, ol, ul {
+    padding: 5px;
+    margin: 5px;
 }
