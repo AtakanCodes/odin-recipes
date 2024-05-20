@@ -17,10 +17,10 @@ h1, h2, h3 {
 .recipe-list {
     color: red;
     list-style: none;
-    padding: 10px;
+    padding: 5px;
 }
 
 p, ol, ul {
     padding: 5px;
-    margin: 5px;
+    list-style: none;
 }
